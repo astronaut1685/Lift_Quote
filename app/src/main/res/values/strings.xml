@@ -1,0 +1,106 @@
+<resources>
+    <string name="app_name">"Lift Quote"</string>
+    <string name="action_settings">Settings</string>
+
+    <!-- put buttons in here -->
+
+
+    <string name="iButton"><b>INSPIRATIONAL</b></string>
+    <string name="pButton"><b>PHILOSOPHICAL</b></string>
+
+    <!-- here are the quotes -->
+    <!-- inspiring -->
+    <string name="s1">"\"He who has a why to live can bear almost any how.\" - Nietzche"</string>
+    <string name="s2">"\"Life is about making an impact, not making an income.\" – Kevin Kruse</string>
+    <string name="s3">"\"You miss 100% of the shots you don’t take.\" – Wayne Gretzky</string>
+    <string name="s4">"\"Happiness is not something ready made. It comes from your own actions.\" - Dalai Lama</string>
+    <string name="s5">"\"You are not a drop in the ocean. You are the entire ocean in a drop\" - Pat Riley</string>
+    <string name="s6">"\"A ship in harbor is safe, but that's not why ships are built.\" - John Shed</string>
+    <string name="s7">"\"A man who wants to lead the orchestra must turn his back on the crowd.\" - Max Lucado</string>
+    <string name="s8">"\"Nothing in this world can take the place of persistence \" - Calvin Coolidge</string>
+    <string name="s9">"\"In three words I can sum up everything I've learned about life: it goes on." - Robert Frost</string>
+    <string name="s10">"\"Life isn't about finding yourself. Life is about creating yourself.\” - George Bernard Shaw</string>
+    <string name="s11">"\"In the depths of winter, I finally learned that within me there lay an invincible summer" - Alber Camus</string>
+    <string name="s12">"\"There is nothing noble in being superior to your fellow man. True nobility is in being superior to your former self.\" - Ernest Hemingway</string>
+    <string name="s13">"\“Don't tell me the sky's the limit when there are footprints on the moon.\”― Paul Brandt</string>
+    <string name="s14">"\"Treat the Earth Well. It was not given to you by your parents, it was loaned to you by your children.\" - Kenyan Proverb</string>
+    <string name="s15">"\"A society grows great when old men plant trees whose shade they know they shall never sit in.\" - Greek Proverb </string>
+    <string name="s16">"\"Everyone who terrifies you is 65% water. And everyone you love is made of stardust. And I know sometimes you cannot even breathe deeply, and the night sky is no home,
+        and you have cried yourself to sleep enough times that you are down to your last 2%. But nothing is infinite, not even loss. You are made of the sea and the stars,
+        and one day you are going to find yourself again.\" - Finn Butler</string>
+    <string name="s17">"\“Life is short, break the rules, forgive quickly, kiss slowly, love truly, laugh uncontrollably, and never regret anything that made you smile.
+        Twenty years from now you will be more disappointed by the things you didn't do than by the ones you did. So throw off the bowlines. Sail away from the safe harbor.
+        Catch the trade winds in your sails. Explore. Dream. Discover.\” - Mark Twain</string>
+    <string name="s18">"There should be no boundaries to human endeavor. We are all different. However bad life may seem, there is always something you can do, and succeed at. While there's life,
+        there is hope" - Anthony McCarten</string>
+    <string name="s19">"\"How much good inside a day? Depends how good you live \'em. How much love inside a friend? Depends how much you give \'em?\" - Shel Silverstein</string>
+    <string name="s20">"\"You have brains in your head. You have feet in your shoes. You can steer yourself in any direction you chose!\" - Dr. Seuss</string>
+    <string name="s21">"\"Worry is a misuse of imagination.\" - Dan Zadra</string>
+    <string name="s22">"\"We must travel in the direction of our fear.\" - John Berryman</string>
+    <string name="s23">"\"Speech is conveniently located midway between thought and action, where it often substitues for both.\" - John Andrew Holmes</string>
+    <string name="s24">"\"Things fall apart so they can fall back together at a highler level of order.\" - Jim Gilekson</string>
+    <string name="s25">"\"It is amazing what you can accomplish if you do not care who gets the credit.\" - Harry S Truman</string>
+    <string name="s26">"\"No matter what one does, whether one's deeds serve virtue or vice, nothing lacks importance all actions bear a kind of fruid.\" - Budha</string>
+    <string name="s27">"\"Everything has its beautfy but not everyone sees it.\" - Confucius</string>
+    <string name="s28">"\"Respect yourself and other will respect you.\" Confucius</string>
+    <string name="s29">"\"Our difficulties can be the source of our awakening. The basic principles of spiritual life is that our problems become the very place to discover widsdom and love.
+    We are shaped by our thoughts. we become what we think. When the mind is pure, joy follows like a shadow that never leaves.\" - budha</string>
+    <string name="s30">"\"A great many people think they are thinking when they are really rearranging their prejudices.\" - William James</string>
+    <string name="s31">"\"You have your way. I have my way. As for the right way, the correct way, and the only way, it does not exist.\" - Nietzche</string>
+    <string name="s32">"\"See the perfection underlying appearances and in seeing it, bring it about. You empower that which you focus on.\" - Almine</string>
+    <string name="s33">"\"Destiny is not a matter of chance, it is a matter of choice. It is not a thing to be waited for, it is a thing to be achieved.\" - Unknown</string>
+    <string name="s34">"\"You are not a human being in search of a spiritual experience. You are a spiritual being immersed in a human experience.\" - Pierre Teilhard de Chardin</string>
+    <string name="s35">"\"A mind that is stretched by a new experience can never go back to its old dimensions.\" - Oliver Wendell Holmes</string>
+
+    <!-- deep -->
+    <string name="s50">"\"A man's character is his fate.\" -Heraclitus</string>
+    <string name="s51">"\"Why do you stay in prison when the door is so wide open?\" - Rumi</string>
+    <string name="s52">"\"When I let go of what I am, I become what I might be.\" - Lao Tzu</string>
+    <string name="s53">"\“There is a voice that doesn’t use words. Listen\” – Rumi</string>
+    <string name="s54">"\“Yesterday I was clever, so I wanted to change the world. Today I am wise, so I am changing myself.\” – Rumi</string>
+    <string name="s55">"\"The surest way to corrupt a youth is to instruct him to hold in higher esteem those who think alike than those who think differently.\" - Nietche</string>
+    <string name="s56">"\"It is the mark of an educated mind, to entertain a thought without accepting it\" - Aristotle</string>
+    <string name="s57">"\“I am not sure that I exist, actually. I am all the writers that I have read, all the people that I have met, all the women that I have loved; all the cities I have visited.\” - Jorge Luis Borges</string>
+    <string name="s58">"\"I used to think the worst thing in life was to end up all alone, it's not. The worst thing in life is to end up with people who make you feel all alone.\" - Robin Williams</string>
+    <string name="s59">"\"There are a 1,000 lessons in defeat. but only one in victory" - Confucious</string>
+    <string name="s60">"\"“It's so hard to forget pain, but it's even harder to remember sweetness. We have no scar to show for happiness. We learn so little from peace.\” - Chuck Palahniuk</string>
+    <string name="s61">"\"Believe those who are seeking the truth. Doubt those who claim they found it.\" - André Gide</string>
+    <string name="s62">"\"You didn't come into this world. You came out of it, like a wave from the ocean. You are not a stranger here.\" -Alan Watts    </string>
+    <string name="s63">"\“Words are finite expressions of the infinite mind.\” - Emerson </string>
+    <string name="s64">"\"I have noticed that people who claim everything is predestined, and we can do nothing to change it, look both ways before crossing the road\" - Stephen Hawking</string>
+    <string name="s65">"\"The problem is not the problem the problem is your attitude about the problem.\" - Jack Sparrow</string>
+    <string name="s66">"\"A mind needs books as a sword needs a whetstone, if it is to keep its edge.\" - George R.R Martin</string>
+    <string name="s67">"\"We judge others by their actions and ourselves by our intentions.\" - Jayce O'Neil</string>
+    <string name="s68">"\"Besides the noble art of getting things done, there is the noble art of leaving things undone. The wisdom of life consists in the elimination of non-essentials.\" - Lin Yutang</string>
+    <string name="s69">"\"Water is fluid. soft, and yielding. But Water will wear away rock, which is rigid and cannot yield. As a rule, whatever is flud, soft and yielding will overcome whatever is rigid and hard.\" - Lao Tzu</string>
+    <string name="s70">\"When i let go of what i am, i become what i might be.\" Lao Tzu</string>
+    <string name="s71">"\"It is only imperfection that complains of what is imperfect. The more perfect we are, the more gentle and quiet we become towards the defects of others.\" Joseph Addison</string>
+    <string name="s72">"\"We do not know what we want and yet we are responsible for what we are.\" - jean-paul sartre</string>
+    <string name="s73">"\"We are the universe trying to figure itself out.\" - Babylon 5</string>
+    <string name="s74">"\"Life is a process of becoming, a combination of states we have to go trough. Where people fail is that they wish to elect a state and remain in it. This is a kind of death.\" - Anais Nin</string>
+    <string name="s75">"\"A human being is a part of the whole called by us universe, a part limited in time and space. He experiences himself, his thoughts and feeling as something separated from the rest, a kind of optical delusion of his consciousness.
+    This delusion is a kind of prison for us, restricting us to our personal desires and to affection for a few persons nearest to us. Our task must be to free ourselves from this prison by
+    widening our circle of compassion to embrace all living creatures and the whole of nature in its beauty.\" - Albert Einstein</string>
+    <string name="s76">"\"No man remains quite what he was when he recognizes himself.\" - Thomans Mann</string>
+    <string name="s77">"\"Whatever is flexible and flowing will tend to grow, whatever is rigid and blocked will wither and die.\" - Tao Te Ching</string>
+    <string name="s78">"\"Learn to be happy alone. If we do not enjoy our own company, why inflict it on others?\" - Swami Chinmayananda</string>
+    <string name="s79">"\"Life can only be understood backwards; but it must be lived forwards.\" - Soren Keiregaard</string>
+    <string name="s80">"\"He that cannot forgive others breaks the bridge over which he must pass himself; for every man has need to be forgive.\" - Thomas Fuller</string>
+    <string name="s81">"\"Draw awareness inward, toward the center. When you are elsewhere, you are in one place. When you are the center, you are everyplace.\" - Atguru Sivaya Subramuniyaswami</string>
+    <string name="s82">"\"Each one sees his own Self only, always and everywhere. He finds the world and God accroding to what he is.\" - Ramana Maharshi</string>
+    <string name="s83">"\"The human being may be no more real than is a cinematograph film. When the projected light is switched off al that remains is a blank screen. That which has been projected by light was a series of 'stills'.
+        Such also is what is being projected by 'life'. The more you consider the analogy the more perfect it seems to be: it could help us to understand.\" - Wei Wu Wei</string>
+    <string name="s84">"\"Man is a piece of the universe made alive.\" - Raph Waldo Emerson</string>
+    <string name="s85">"\"Wise men talk because they have something to say; fools, because they have to say something.\" - Plato</string>
+
+    -->
+
+
+    <!--
+
+
+    -->
+
+
+
+</resources>
